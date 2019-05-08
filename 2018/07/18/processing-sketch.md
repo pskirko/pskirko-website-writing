@@ -129,4 +129,4 @@ good together.
 
 So there you have it, a sketch, nothing more and nothing less.
 
-![](https://i1.wp.com/www.pskirko.com/wp-content/uploads/2018/07/Sketch001.png?resize=525%2C420&ssl=1)
+![](https://i1.wp.com/www.pskirko.com/wp-content/uploads/2018/07/Sketch001.png)
