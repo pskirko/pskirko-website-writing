@@ -4,32 +4,125 @@
 
 ## Revision History
 
-* 2019/01/29 - Initial commit (grabbed from website).
+* Version 1.0 - 2019/01/29 - Initial commit (grabbed from website).
+* Version 1.1 - 2019/05/14 - Grab updates from website.
 
 # Info For Recruiters
 
-*The opinions stated here are my own, not those of my company.*
+_The opinions stated here are my own, not those of my company._
 
-This page is information that should be useful for recruiters. Last update January 2019.
+![Image courtesy of NASA Commons](https://i0.wp.com/www.pskirko.com/wp-content/uploads/2019/01/first_flight.jpg)
 
-Right now, I’m pretty happy in my current role, and my current manager chain (my manager, their manager, etc) is the best I’ve ever had. So I don’t have any intention of exploring new roles at the moment.
+_This page contains information that should be useful for recruiters. Last updated Feb 2019._
 
-But, things change. Managers leave. Teams get reorganized. Projects go south. And so on. I have the suspicion that some software engineers think they are pretty much guaranteed employment and career-happiness for life. I believe many of them are overly optimistic. Having been around for both the Dot Com Bust and the Great Recession, I’ve seen otherwise.
+## tl;dr
 
-Andy Grove wrote a book called [Only The Paranoid Survive](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821). To be honest, I haven’t read it yet. But I know it’s about his time leading Intel through intense competition and changes in the semiconductor industry landscape. “Paranoia” might be too alarmist for daily mental consideration, but every software engineer who doesn’t have a safety net so big (from a previous exit, etc) that they could retire tomorrow needs to be reasonably circumspect about the future, in my opinion. Especially once you’re over 35. Age-based discrimination will always be a problem. “Regulation” and other systemic ways of dealing with it will always lag reality by 5-10 years. The only way I see to deal with it is that I’m constantly investing in my core skills, which generally happens in off-job hours.
+Right now, I am **not** looking for a new role, at my current employer or
+elsewhere.
 
-So hence my paradox. While I am happy now, it is a happiness I only partially control the destiny of. Many, many random variables are involved.
+Here’s why:
 
-If you are recruiter looking to “chat”, my current reply is “thanks, not interested now, check back in 6-12 months”.
+1.  I’m happy with my current role and manager chain (my manager, their
+manager, etc). However, this is a happiness that I only marginally control the
+destiny of–more on this another time.
+2.  Personal reasons.
+3.  The macroeconomic environment. The US is in the [longest bull
+run](https://money.cnn.com/2018/08/22/investing/bull-market-longest-stocks/index.html)
+in market history. But a whole bunch of startups are set to IPO in 2019:
+[Lyft](https://www.nytimes.com/2019/01/27/technology/lyft-ceo-logan-green.html),
+[Slack](https://www.cnbc.com/2018/12/07/slack-has-hired-goldman-sachs-for-2019-ipo.html),
+[Uber](https://www.reuters.com/article/us-uber-ceo/uber-on-track-for-ipo-in-2019-no-plans-to-sell-tech-unit-ceo-idUSKCN1LL2MN),
+etc. Look, I know “market timing” is anyone’s guess, but my simplistic
+prediction is that the bull run could very well end in 2019-2021, so “[winter
+is coming](https://gameofthrones.fandom.com/wiki/Winter_Is_Coming_(motto))“.
+4.  In my “spare time”, I am retooling my career to focus on machine learning.
+At roughly 2-4 hours of free time a week, I predict this will take me 4-6
+years; more on this another time as well. In the best case scenario, I may very
+well stay off the market until I’ve made significant progress on this front.
+5.  Interviewing is an _enormous_ time sink. Unless a new role is literally 10x
+(for some combination of role and comp) better than my current one, I rather
+spend that time (3-6+ months of intensive prep, if not more) hanging out with
+my family—my kids are kids for only so long before they become rebellious
+teenagers.
 
-In my experience, recruiters of small companies (i.e. startups) over-emphasize the mission/purpose aspect of their company. That is, they want to find employees who really, truly believe that their company is going to change the world or an industry in X ways, and who are willing to make great sacrifices to give it a try (this is doubly ironic since I read LinkedIn and can see how often recruiters flip their own roles). Sure, maybe if you’re fresh out of college, or have a big safety net and can take big risks. But I’m nearing 40, have a wife and two kids, and are a single income family in California, one the least affordable places in the US. So when a recruiter focuses on idealism, it often comes across as the wrong tone for me, and it highlights that you probably haven’t done your homework (aka read my LinkedIn profile) and are just spamming me. Recruiters from big companies generally are much more straightforward about what they are pitching, and I appreciate that.
+## How I Segment the Software Developer Labor Market
 
-Recruiters of small companies (i.e. startups) are also way, way too vague in their communications. A startup is a tradeoff. Financially, you trade the relative stability and higher present cash flow of a profitable big company, in exchange for a much smaller present cash flow with a probabilistic future cash flow (ie successful exit) whose expected value across the industry is strictly negative (negative, due to the lost value of staying with big company and saving the cash flows wisely).
+I segment the software developer labor market somewhat simplistically into:
 
-But it’s not just financial. The tradeoffs are many: management chain, team quality, code quality, role and opportunity, level of stress, commute/remote, and so on. I’d like to really flesh out my thoughts here later on. It’s important not just to me, but others who are new in their career.
+*  Cash-flow-rich companies. These are generally the
+   [FAANG](https://en.wikipedia.org/wiki/Facebook,_Apple,_Amazon,_Netflix_and_Google)
+   companies or equivalents (e.g. NYC finance), or later-stage huge startups
+   that are close to IPO and are basically making FAANG-competitive offers
+   (e.g. AirBnb, Uber).
 
-But as I said, startup recruiters tend to be really vague here. Again, I feel like you haven’t done your homework. Maybe that works with someone younger. But not me. I’d really prefer if you were direct in what you are offering. Please be clear if this is an individual contributor role, or a leadership one. Either way, I want to know my entire possible management chain in the first email, and key team members I would directly work with. Send me all their LinkedIn profiles, and if I’m interested, I would definitely read every one. And finally, be upfront about salary range. In the days of Glassdoor, these numbers are not a secret anymore, nor should they ever be. Even big companies could do a better job of getting this detailed, but I have limited expectations from big companies because their recruiting machinery is pretty standardized and operates at a massive scale. Small companies can be much more crafty and nimble on this front, and if you’re not, you’re missing one of your competitive advantages.
+*  Cash-flow-conservative companies. These are generally startups, and are
+   either strictly cash-flow-poor (i.e. limited runway) or
+   cash-flow-conservative (i.e. have strong cash flow positions, but are
+   spending it shrewdly).
 
-And finally, this is all meant sincerely. I will probably turn down roles that will end up financially or career-wise lucrative for the people that took them. Part of the problem is choosing the winners from the losers, so to speak. I am driven not by hubris but by more mundane considerations of how I am going to pay for college and retire without undue burden.
+Both segments have a section below, so read on!
 
-If you made it this far, thanks for reading. I’ll update this doc from time to time.
+## Info for Recruiters From Cash-Flow-Rich Companies
+
+I currently work at a FAANG company. As long as I do, here is my guidance to
+other cash-flow-rich companies that are trying to recruit me:
+
+It’s highly unlikely (i.e. ~90% of the time) you will offer me a markedly
+better compensation story than what I have currently. Chances are, your level
+of spend is based on the market rate, plus a few quantiles, so I can predict
+with some accuracy what these numbers can be.
+
+Thus, if you are trying to recruit me, the most attractive situations for me to
+consider are opportunities that are strictly better than the one I have now.
+Since I work in “Cloud AI” currently, which is a pretty hot space, the only
+thing that’s strictly better at the moment is a chance to move into an
+immediate position of management of a team size >= 7 in a growth area (cloud,
+ML, etc).
+
+## Info for Recruiters from Cash-Flow-Conservative Companies
+
+I further segment cash-flow-conservative companies into:
+
+*  Early stage startups (< 10 employees and < 3 years old)
+*  Everything else
+
+I generally don’t hear about early stage opportunities. If you are one and
+reach out to me, please just have a clear “Why me?” story.
+
+The “Why me?” story from the vast majority of recruiters is basically that “you
+work at Google”. That rationale is highly incomplete. Google announced in their
+2018Q4 earnings call that they now had > 98k employees. So in 2019, being
+Google or ex-Google without further qualification is insufficient. In 2005,
+this mattered; in 2019, not so much. It does not take a recruiting genius to
+spam the thousands of engineers at companies like Google and then point out the
+obvious.
+
+For the cash-flow-conservative, non-early-stage startups, the situation is
+really unclear. What’s the narrative? Are you just hiring bodies to scale out?
+Are you starting a bold new product initiative? Etc.
+
+If this is your segment, please focus not only on a strong “Why me?” story, but
+also clearly identify the “X-Factor”. Here are some examples:
+
+*  Located somewhere I’d like to live that’s not the Bay Area (NYC area, for
+   example)
+*  Or, is a thriving remote-friendly team (e.g. Buffer, GitLab, WordPress,
+   etc)
+*  Or can offer me a radical career change (i.e. into machine learning)
+
+And, a strong stock options grant. A startup job without a strong options grant
+is more often than not just an economically inferior job.
+
+## Conclusion
+
+Since I am fairly happy now, I am not engaging extensively with recruiters
+unless I:
+
+*  **Suddenly need to** (i.e. because I’ve been laid off, which I hope never
+   happens, but I have no control over “[reduction in
+   force](https://en.wikipedia.org/wiki/Layoff#Common_abbreviations_for_reduction_in_force)”
+   actions by any employer, current or otherwise)
+
+*  Or really, really want to (i.e. you’ve clearly identified an X-Factor that
+   makes sense for both me and my family)
+
