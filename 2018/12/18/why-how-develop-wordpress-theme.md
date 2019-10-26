@@ -75,7 +75,7 @@ science.
 
 Here is Wikipedia on the origins of fork() in operating systems:
 
-> [](https://en.wikipedia.org/wiki/Dennis_M._Ritchie)fork() is the name of
+> fork() is the name of
 > the system call that the parent process uses to "divide" itself ("fork") into
 > two identical processes. After calling fork(), the created child process is an
 > exact copy of the parent except for the return value of the fork() call. This
