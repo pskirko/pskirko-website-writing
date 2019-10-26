@@ -6,6 +6,10 @@
 
 * Version 1.0 - 2019/10/25 - Initial commit (grabbed from website).
 
+This post is also available on my website ([link to
+post](https://www.pskirko.com/2018/12/18/why-how-develop-wordpress-theme/)).
+Read it there or here; up to you.
+
 # Why and how I started developing my own Wordpress theme
 
 ![](https://raw.githubusercontent.com/pskirko/pskirko-website-writing/master/uploads/2019/10/website_top.jpg)
